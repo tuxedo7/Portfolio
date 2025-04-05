@@ -1,0 +1,1 @@
+chrome-extension://hnfanknocfeofbddgcijnmhnfnkdnaad/requestProvider.js
