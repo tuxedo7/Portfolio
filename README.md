@@ -1,0 +1,1 @@
+![Screenshot](/main-section.png)
